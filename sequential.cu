@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <cuda.h>
+#include <math.h>
 
 // Ising model evolution
 /*!
